@@ -1,3 +1,4 @@
 yusdrian resolusi
 - belajar program
 - membuat forum diskusi
+- membuat web
